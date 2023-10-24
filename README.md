@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+
+## Start project
+docker compose up
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
